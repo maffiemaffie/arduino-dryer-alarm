@@ -4,6 +4,10 @@
 
 The dryer in my apartment has the most annoying buzzer but I still want to know when my laundry is finished. I've decided to build my own buzzer to play a sweet, soothing melody to let you know your dryer cycle has completed.
 
+## Post Mortem vid
+
+https://github.com/maffiemaffie/arduino-dryer-alarm/assets/111717714/f08f5730-4273-48fc-b501-dd41e9eb0d21
+
 ## Circuit
 For the circuit, I use a piezo connected to a digital output pin and an analog input pin.
 
